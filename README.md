@@ -46,4 +46,20 @@ Luminify is a dynamic business card application, designed with a modern UI. The 
 
 ## Usage
 
-After starting the development server, open your browser and navigate to `http://localhost:5173/luminify/` to view the application.
+1. **Run the application:**
+
+   ```sh
+   npm run dev
+   ```
+
+2. **Build for production:**
+
+   ```sh
+   npm run build
+   ```
+
+3. **Preview the production build:**
+
+   ```sh
+   npm run preview
+   ```
