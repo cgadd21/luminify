@@ -1,6 +1,6 @@
 # Luminify
 
-Luminify is a dynamic business card application, designed with a modern UI. The business card was lovingly crafted by my soon-to-be wife.
+Luminify is a business card application, designed with a modern UI. The business card was lovingly crafted by my soon-to-be wife.
 
 ## Table of Contents
 
